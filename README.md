@@ -3,7 +3,6 @@
   🌐 IT managment student at TEC</br>
   💻Certified in Introduction to Digital Entrepreneurship</br>
   🚀 Passionate about leveraging technology for social impact</br>
-  🤝 I enjoy collaborating on open-source projects and mentoring peers</br>
   🌱 Currently exploring web development, blockchain and data analytics</br>
 
 ## 🌐 Socials:
